@@ -1,58 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=120&section=header&text=Manish%20Das&fontColor=FFD700&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=130&section=header&text=Manish%20Das&fontColor=FFD700&fontSize=42"/>
 
-### Full Stack Developer (Backend-Focused)
+### Backend-Focused Full Stack Developer  
 **Python · Django · React**
 
 </div>
 
 ---
 
-## Professional Summary
+## Overview
 
-Backend-focused Full Stack Developer with hands-on experience building clean, scalable, and maintainable web applications.  
-Strong understanding of backend architecture, databases, and API design, with the ability to deliver simple and effective user interfaces.
+I am a backend-focused full stack developer who builds **scalable, maintainable, and production-ready web applications**.  
+I focus on clean backend architecture, efficient database design, and simple, professional user interfaces.
+
+I value **clarity over hype**, **structure over shortcuts**, and **code that can scale**.
 
 ---
 
-## Core Skills
+## Technical Expertise
 
-**Languages & Frameworks**  
+**Programming & Frameworks**  
 Python · Django · React · HTML · CSS · SQL  
 
-**Backend & Data**  
-REST APIs · Database Design · Authentication · CRUD Systems  
+**Backend Engineering**  
+RESTful APIs · Authentication Systems · Database Design · CRUD Architectures  
 
 **Tools & Workflow**  
-Git · GitHub · VS Code · Deployment Basics  
+Git · GitHub · VS Code · Basic Deployment & Hosting  
 
 ---
 
-## What I Bring
+## What Sets Me Apart
 
+- Strong backend fundamentals and logical thinking  
 - Write clean, readable, and maintainable code  
-- Strong backend logic with structured database design  
-- Build APIs that scale and are easy to integrate  
-- Deliver professional, responsive web interfaces  
-- Learn fast and adapt to new technologies quickly  
+- Comfortable working end-to-end on web applications  
+- Quick learner with a problem-solving mindset  
+- Professional communication and teamwork experience  
 
 ---
 
 ## Experience
 
 **Freelance Web Developer**  
-- Built and maintained dynamic web applications  
-- Designed backend systems using Django  
-- Delivered responsive and user-friendly interfaces  
+- Developed full-stack web applications using Django  
+- Designed structured databases and REST APIs  
+- Delivered responsive, client-ready interfaces  
 
-**Leadership Experience**  
-- Vice President, EBC Club  
-- Led teams, organized technical initiatives, and mentored peers  
+**Leadership Role**  
+**Vice President – EBC Club**  
+- Led technical and organizational initiatives  
+- Coordinated teams and mentored junior members  
 
 ---
 
-## GitHub Activity
+## GitHub Insights
 
 <div align="center">
 
@@ -64,9 +67,18 @@ Git · GitHub · VS Code · Deployment Basics
 
 ---
 
+## Professional Interests
+
+- Backend Engineering  
+- Scalable Web Systems  
+- API Design  
+- Real-World Problem Solving  
+
+---
+
 ## Availability
 
-Open to internships, freelance projects, and entry-level developer roles.
+Open to **internships**, **freelance projects**, and **junior developer opportunities**.
 
 ---
 
@@ -77,5 +89,7 @@ GitHub: https://github.com/aspcodeX
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=80&section=footer&text=Manish%20Das%20|%20aspcodeX&fontColor=FFD700&fontSize=18"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=85&section=footer&text=Manish%20Das%20|%20Full%20Stack%20Developer&fontColor=FFD700&fontSize=18"/>
+
 </div>
