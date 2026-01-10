@@ -1,95 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=130&section=header&text=Manish%20Das&fontColor=FFD700&fontSize=42"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Manish%20Das&fontSize=42&fontAlignY=35"/>
 
-### Backend-Focused Full Stack Developer  
-**Python · Django · React**
+### 🚀 Full Stack Developer | Backend Focused  
+**Python • Django • React**
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manish+Das;GitHub%3A+aspcodeX;I+Build+Scalable+Web+Applications;Backend+%7C+APIs+%7C+Databases"/>
 
 </div>
 
 ---
 
-## Overview
+## 👨‍💻 About Me
 
-I am a backend-focused full stack developer who builds **scalable, maintainable, and production-ready web applications**.  
-I focus on clean backend architecture, efficient database design, and simple, professional user interfaces.
+✨ Passionate **Full Stack Developer** focused on building **scalable backend systems** and **clean user experiences**.  
+💡 I love turning complex problems into simple, efficient solutions.
 
-I value **clarity over hype**, **structure over shortcuts**, and **code that can scale**.
-
----
-
-## Technical Expertise
-
-**Programming & Frameworks**  
-Python · Django · React · HTML · CSS · SQL  
-
-**Backend Engineering**  
-RESTful APIs · Authentication Systems · Database Design · CRUD Architectures  
-
-**Tools & Workflow**  
-Git · GitHub · VS Code · Basic Deployment & Hosting  
+- 🔧 Backend-first mindset  
+- 🧠 Strong logical thinking  
+- ⚡ Fast learner & problem solver  
 
 ---
 
-## What Sets Me Apart
+## 🧰 Tech Stack
 
-- Strong backend fundamentals and logical thinking  
-- Write clean, readable, and maintainable code  
-- Comfortable working end-to-end on web applications  
-- Quick learner with a problem-solving mindset  
-- Professional communication and teamwork experience  
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,postgresql" />
+</p>
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
-## Experience
+## 🚀 What I Do
 
-**Freelance Web Developer**  
-- Developed full-stack web applications using Django  
-- Designed structured databases and REST APIs  
-- Delivered responsive, client-ready interfaces  
+✅ Design RESTful APIs  
+✅ Build Django backend systems  
+✅ Database modeling & optimization  
+✅ Responsive and clean UI  
+✅ Production-ready web apps  
 
-**Leadership Role**  
+---
+
+## 🧠 Experience
+
+### 💼 Freelance Web Developer
+- Built full-stack applications using Django  
+- Created structured databases and APIs  
+- Delivered client-ready, responsive websites  
+
+### 🏆 Leadership
 **Vice President – EBC Club**  
-- Led technical and organizational initiatives  
-- Coordinated teams and mentored junior members  
+- Led teams and technical initiatives  
+- Mentored juniors and coordinated events  
 
 ---
 
-## GitHub Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aspcodeX&show_icons=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aspcodeX&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspcodeX&layout=compact&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspcodeX&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
 ---
 
-## Professional Interests
+## 🔥 GitHub Streak
 
-- Backend Engineering  
-- Scalable Web Systems  
-- API Design  
-- Real-World Problem Solving  
-
----
-
-## Availability
-
-Open to **internships**, **freelance projects**, and **junior developer opportunities**.
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aspcodeX&theme=tokyonight"/>
+</div>
 
 ---
 
-## Contact
+## 🌐 Connect With Me
 
-GitHub: https://github.com/aspcodeX  
+<p align="center">
+<a href="https://github.com/aspcodeX">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=85&section=footer&text=Manish%20Das%20|%20Full%20Stack%20Developer&fontColor=FFD700&fontSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Build%20Something%20Awesome!&fontSize=20"/>
 
 </div>
