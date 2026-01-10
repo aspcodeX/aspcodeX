@@ -1,53 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Manish%20Das&fontSize=42&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Manish%20Das&fontSize=45&fontAlignY=38"/>
 
-### 🚀 Full Stack Developer | Backend Focused  
-**Python • Django • React**
+<h3>🚀 Full Stack Developer | Backend Focused</h3>
+<h4>Python • Django • React</h4>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manish+Das;GitHub%3A+aspcodeX;I+Build+Scalable+Web+Applications;Backend+%7C+APIs+%7C+Databases"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manish+Das;GitHub%3A+aspcodeX;Building+Scalable+Web+Apps;APIs+%7C+Databases+%7C+Clean+UI;Always+Learning+%26+Improving"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ✨ About Me
 
-✨ Passionate **Full Stack Developer** focused on building **scalable backend systems** and **clean user experiences**.  
-💡 I love turning complex problems into simple, efficient solutions.
+💡 I am a **backend-focused full stack developer** who enjoys building  
+**scalable systems**, **clean APIs**, and **modern user interfaces**.
 
-- 🔧 Backend-first mindset  
-- 🧠 Strong logical thinking  
-- ⚡ Fast learner & problem solver  
+- 🧠 Strong logical & backend fundamentals  
+- ⚙️ Love structured databases & APIs  
+- 🎯 Goal: build production-ready applications  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Arsenal
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,postgresql" />
-</p>
-
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,python,django,postgresql,git,github,vscode,linux&perline=5" />
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Do Best
 
-✅ Design RESTful APIs  
-✅ Build Django backend systems  
-✅ Database modeling & optimization  
-✅ Responsive and clean UI  
-✅ Production-ready web apps  
+🌐 REST API Development  
+⚙️ Backend Architecture (Django)  
+🗄 Database Design & Optimization  
+🎨 Clean & Responsive UI  
+📦 End-to-End Web Applications  
+
+---
+
+## 🧩 Featured Projects
+
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aspcodeX&repo=project-one&theme=tokyonight"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aspcodeX&repo=project-two&theme=tokyonight"/>
+</a>
+
+</div>
+
+> 📌 Replace `project-one` & `project-two` with your **real repo names**
 
 ---
 
@@ -55,32 +62,32 @@
 
 ### 💼 Freelance Web Developer
 - Built full-stack applications using Django  
-- Created structured databases and APIs  
-- Delivered client-ready, responsive websites  
+- Designed scalable backend logic  
+- Delivered clean, client-ready solutions  
 
 ### 🏆 Leadership
 **Vice President – EBC Club**  
-- Led teams and technical initiatives  
-- Mentored juniors and coordinated events  
+- Led teams & technical initiatives  
+- Mentored juniors and organized events  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aspcodeX&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aspcodeX&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspcodeX&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspcodeX&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aspcodeX&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aspcodeX&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -89,7 +96,7 @@
 
 <p align="center">
 <a href="https://github.com/aspcodeX">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -97,6 +104,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Build%20Something%20Awesome!&fontSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Let’s%20Build%20Something%20Legendary&fontSize=22"/>
 
 </div>
