@@ -21,7 +21,9 @@ Check out the live website here:
 **Note:** This project is built and deployed by a **15-year-old student developer** passionate about coding! 👨‍💻
 
 ## 📸 App Screenshot
-![App Screenshot](https://via.placeholder.com/800x400?text=Red+Lotus+App+Screenshot)
+![App Screenshot](<img width="1887" height="981" alt="Screenshot 2026-01-18 161205" src="https://github.com/user-attachments/assets/e46249db-0462-4649-9d3f-44df7fa24a4d" />)
+
+
 
 ## ✨ Features
 * ✅ **Authentication:** Secure Login/Signup using Firebase.
