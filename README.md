@@ -1,4 +1,4 @@
-# Hi I am Manish Das I am a Web Developer Passionate about About Coding
+# Hi I am Manish Das I am a Web Developer Passionate about Coding
 
 > A Cinematic Frontend Experience built with React & Firebase.
 
