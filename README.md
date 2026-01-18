@@ -1,4 +1,4 @@
-# 🔴 Red Lotus Project
+# Hi I am Manish Das I am a Web Developer Passionate about About Coding
 
 > A Cinematic Frontend Experience built with React & Firebase.
 
