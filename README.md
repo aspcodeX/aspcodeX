@@ -40,4 +40,4 @@ Check out the live website here:
 ---
 
 ### 📬 Contact
-Created by **[YAHAN APNA NAAM LIKHO]** - Feel free to check my code!
+Created by **[aspcodeX/ Manish Das]** - Feel free to check my code!
