@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 Check out the live website here:  
-👉 **[https://frontend-khaki-ten-jii4vrjxmm.vercel.app]**
+👉 **[https://red-lotus-project.vercel.app]**
 
 ---
 
