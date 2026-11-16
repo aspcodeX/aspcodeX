@@ -1,4 +1,4 @@
-:::writing{variant="document" id="58392"}
+
 # MANISH DAS®
 
 **Independent Developer · Web Engineering · Creative Technology**
