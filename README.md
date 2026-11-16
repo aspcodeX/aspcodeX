@@ -1,41 +1,93 @@
-# Hi I am Manish Das I am a Web Developer Passionate about Coding
+:::writing{variant="document" id="58392"}
+# MANISH DAS®
 
-> A Cinematic Frontend Experience built with React & Firebase.
+**Independent Developer · Web Engineering · Creative Technology**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+I build digital products, explore emerging technologies, and turn ideas into functional experiences.
 
----
-
-## 🚀 Live Demo
-Check out the live website here:  
-👉 **[https://red-lotus-project.vercel.app]**
+[Portfolio](https://red-lotus-project.vercel.app) / [GitHub](https://github.com/aspcodeX) / [Red Lotus](https://red-lotus-project.vercel.app)
 
 ---
 
-## 🧐 About The Project
-**Red Lotus** is a high-performance web application featuring a modern, cinematic user interface. It demonstrates the power of **React + Vite** for the frontend and implements secure **Google Authentication** using Firebase.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   MANISH DAS                                                 │
+│   ────────────────────────────────────────────────────────   │
+│                                                              │
+│   BUILDING FOR THE WEB.                                      │
+│   EXPLORING WHAT'S NEXT.                                     │
+│                                                              │
+│   React / JavaScript / Firebase / AI & ML                    │
+│                                                              │
+│   INDIA                                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-**Note:** This project is built and deployed by a **15-year-old student developer** passionate about coding! 👨‍💻
+## 01 / INTRODUCTION
 
+I'm a student developer passionate about software engineering and the evolving world of technology.
 
+My work revolves around building modern web applications, experimenting with creative frontend techniques, and understanding how technology can solve real-world problems.
 
+I believe in learning by building.
 
-## ✨ Features
-* ✅ **Authentication:** Secure Login/Signup using Firebase.
-* ✅ **Cinematic UI:** Beautiful Dark/Red aesthetic theme.
-* ✅ **Fully Responsive:** Works perfectly on Mobile, Tablet, and Desktop.
-* ✅ **Blazing Fast:** Powered by Vite build tool.
+## 02 / SELECTED WORK
 
-## 🛠️ Tech Stack
-* **Frontend Library:** React.js
-* **Build Tool:** Vite
-* **Authentication:** Firebase Auth
-* **Hosting:** Vercel
+| PROJECT | DESCRIPTION | TECHNOLOGY |
+|---|---|---|
+| RED LOTUS | Cinematic web experience | React, Vite, Firebase |
+| FOODLY | Interactive recipe discovery platform | JavaScript, Three.js, API |
+| PLANORA | Productivity and task management application | Firebase, JavaScript |
+
+More experiments and projects are available on my GitHub.
+
+## 03 / TECHNOLOGY
+
+**LANGUAGES**
+
+JavaScript · HTML5 · CSS3 · Python
+
+**FRAMEWORKS & LIBRARIES**
+
+React · Vite · Three.js · GSAP
+
+**BACKEND & SERVICES**
+
+Firebase · REST APIs
+
+**TOOLS**
+
+Git · GitHub · VS Code · Vercel
+
+## 04 / CURRENT INTERESTS
+
+- Modern frontend architecture
+- Artificial Intelligence and Machine Learning
+- Full-stack application development
+- Interactive and 3D web experiences
+- Software engineering fundamentals
+
+## 05 / DEVELOPMENT PRINCIPLES
+
+01. Build with purpose.
+02. Keep interfaces intuitive.
+03. Prioritize performance.
+04. Write maintainable code.
+05. Never stop experimenting.
+
+## 06 / CONNECT
+
+Interested in technology, creative development, or collaborating on interesting projects?
+
+**GitHub** → [@aspcodeX](https://github.com/aspcodeX)
+
+**Explore** → [Red Lotus](https://red-lotus-project.vercel.app)
 
 ---
 
-### 📬 Contact
-Created by **[aspcodeX/ Manish Das]** - Feel free to check my code!
+<p align="center">
+  <sub>MANISH DAS® · DESIGNED THROUGH CODE · 2026</sub>
+</p>
+:::
